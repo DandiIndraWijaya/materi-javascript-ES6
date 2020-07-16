@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Dandi Indra Wijaya",
+        "NIM" : "4611418013",
+        "email": "dandiindra29@gmail.com",
+        "jurusan": "Ilmu Komputer",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Gunawan",
+        "NIM" : "4611418015",
+        "email": "gunawan@gmail.com",
+        "jurusan": "Ilmu Komputer",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Sinta Dewi",
+        "NIM" : "4611418023",
+        "email": "DewiSinta@gmail.com",
+        "jurusan": "Ilmu Komputer",
+        "idDosenWali": 1
+    }
+]
